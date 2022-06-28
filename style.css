@@ -1,0 +1,20 @@
+body
+{
+ background-color: antiquewhite;
+ 
+}
+
+span {
+    font-size: 30px;
+  }
+
+.brother
+{
+  color: black;
+}
+.happy{
+  color:blue;
+}
+.bithday{
+  color: blueviolet;
+}
